@@ -18,7 +18,7 @@ Beyond coding and security, Inaam has a strong interest in physics, problem-solv
 Currently a student preparing for medical entrance exams while pursuing technology as a parallel passion, his long-term goal is to build research-driven technology particularly in AI, healthcare and cybersecurity that creates real-world impact.
 
 ### 🌐 Connect With Me
-- [Amazon Author Profile](https://www.amazon.com/stores/author/...) *(Make sure to drop your actual Amazon author link here)*
+- [Amazon Author Profile](https://www.amazon.com/stores/author/B0CPYGR5CX/about)
 - [LinkedIn Profile](https://in.linkedin.com/in/inaam-shabir)
 - [GitHub Profile](https://github.com/InaamShabir)
 
