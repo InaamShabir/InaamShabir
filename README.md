@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Mrinampro. A 15 year old web developer 
-- 👀 I’m interested in coding programming and drawing  ...
-- 🌱 I have learned HTML CSS I’m currently learning back-end web development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 SUBSCRIBE MY YOUTUBE CHANNEL ..
+# Hi, I'm Inaam Shabir 👋
+
+<img src="https://github.com/InaamShabir.png" width="150" alt="Inaam Shabir - Coder and Author">
+
+I am a 16-year-old full-stack web developer, independent security researcher (ethical hacker), and the author of *Python Pedia*.
+
+- 💻 **Coding & Security:** I specialize in web development, manual API vulnerability auditing, and bug hunting.
+- 📚 **Author:** Published technical author of *Python Pedia* (available on Amazon).
+- 🌐 **Connect with me:** 
+  - [LinkedIn Profile](https://in.linkedin.com/in/inaam-shabir)
+  - [GitHub Profile](https://github.com/InaamShabir)
 
 <!---
-Mrinampro/Mrinampro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+InaamShabir/InaamShabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
