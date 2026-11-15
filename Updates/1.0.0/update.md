@@ -1,4 +1,4 @@
-# Welcome to Inaam App! We hope you have a good day ❤️
+# Welcome to Inaam App! ❤️
 
 We have released a **new version** with a faster chapter screen, nicer PDFs and one-tap dark mode.
 
